@@ -1,0 +1,18 @@
+body {
+    background-color: #352F44;
+    text-align: center;
+    position: relative;
+    margin: auto;
+   
+  }
+  div {
+    height: 572px;
+    width: 545px;
+    position: relative;
+    margin: auto;
+  }
+  canvas {
+    background-color: #5C5470;
+    border-radius: 15px;
+  }
+  
